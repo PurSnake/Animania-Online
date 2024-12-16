@@ -1,7 +1,7 @@
 NEWS!
 
-!! 12 13 2024 !!
+!! 19th of December 2024 !!
 
-skibidi hawk tuah
+Welcome to the release of Animania 0.5(r)!
 
 This newsletter has been written by Niko (@hawktuahgod on twitter)
