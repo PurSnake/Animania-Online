@@ -1,7 +1,7 @@
 ---------------------------
 NEWS!
 ------------
-Hi Hundrec :p
+Hi Flashu :p
 
 Welcome to the release of Animania 0.5(r)!
 
