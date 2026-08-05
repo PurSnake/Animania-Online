@@ -60,4 +60,3 @@ This newsletter has been written by Niko n' PurSnake (@hawktuahgod and @PurSnake
 
 
 ![neighbor](images/image.png)
-
