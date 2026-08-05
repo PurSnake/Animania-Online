@@ -4,7 +4,7 @@ NEWS!
 ![damn](images/popa.png)
 
 ------------
-Welcome to the release of Animania 0.5(r)!
+Welcome to the release of Animania 0.666666666(r)!
 Hellyeah
 
 We recently made a new Monthly News post in the discord server! Check it out!
