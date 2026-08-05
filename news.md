@@ -1,5 +1,6 @@
 ---------------------------
 NEWS!
+![:O](images/popa.png)
 ------------
 Welcome to the release of Animania 0.5(r)!
 Hellyeah
@@ -11,8 +12,10 @@ We have been working on this for awhile now! (mainly working on reworking old st
 Join our discord server! we will be posting updates, teasers and more!
 
 Enjoy Animania!
+![green gameplay](images/real.png)
 
 ------------
 This newsletter has been written by Niko n' PurSnake (@hawktuahgod and @PurSnake)
 (P.S, this news is server sided, expect some updates at times)
 ---------------------------
+![flower mans](images/real2.png)
