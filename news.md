@@ -1,7 +1,8 @@
 ---------------------------
 NEWS!
 
-![:O](images/popa.png)
+![damn](images/popa.png)
+
 ------------
 Welcome to the release of Animania 0.5(r)!
 Hellyeah
