@@ -13,25 +13,25 @@ Updated News menu with markdown images support.
 ![week1-image](images/changelog/week1.png)
 
 Added AMTake Week 1 content with a twist!
-Awesome sprites with cool effects on top makes me happy.
+Awesome sprites with cool effects on top make me happy.
 
 --------------------------
 
 ![week5-image](images/changelog/week5.png)
 
-Updated AMTake Week 5 stages to reduce visual clutter and make stages match the Winter-Horrorlad's stage.
+Updated AMTake Week 5 stages to reduce visual clutter and make stages match the Winter-Horrorland's stage.
 
 --------------------------
 
 ![pause-image](images/changelog/pause.png)
 
-Added new and awesome Pause Menu with ability to change some settings without leaving gameplay!
+Added a new awesome Pause Menu with ability to change some settings without leaving the song!
 
 --------------------------
 
 ![freepaly-image](images/changelog/freepaly.png)
 
-Reworked and optimized Freeplay menu.
+Reworked and optimized the Freeplay menu.
 
 --------------------------
 
@@ -41,7 +41,7 @@ Whole ass new Options menu, where you can change almost everything!
 
 --------------------------
 
-Also some notes that game uses yet another HScript parser for song/state/event scripts for simpler development and etc.
-Added cool-ass title bar for Windows builds.
-Added funny modchart system.
+Also the game now uses yet another HScript parser for song/state/event scripts for simpler development and etc.
+Added a cool-ass title bar for Windows builds.
+Added a funny modchart system.
 
