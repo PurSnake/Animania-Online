@@ -3,6 +3,8 @@ Hey there newcomers and our returning players\!
 Also Hi Penkaru!!! I can see you through your beautiful, breakable window.
 Joke!
 
+![penkaru-image](images/penkarumeme.png)
+
 The 0.6 update is out, that means we have to share some of our inside kitchen, as well as address some of our future content for our project.
 
 ------------
