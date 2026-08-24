@@ -5,6 +5,13 @@ Joke!
 
 ![penkaru-image](images/penkarumeme.png)
 
+Also sudden Dare!
+
+![dare-image](images/dareV.png)
+
+Also yes these news fetched in real time from from net cuz its cool lol
+
+-----------
 The 0.6 update is out, that means we have to share some of our inside kitchen, as well as address some of our future content for our project.
 
 ------------
